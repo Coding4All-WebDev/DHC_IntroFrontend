@@ -1,0 +1,36 @@
+
+  
+   body 
+   {
+     background:linear-gradient(to right,#3b444b, #2C353C,#1d262d,  #4a535a);
+     }
+  
+  
+  
+     table, tr, td {
+      border: 1px solid;
+      font-size: 20px;
+      
+      
+  }
+  i {
+    text-align: center;
+    text-shadow: 3px 3px 3px violet;
+    font-size:50px;
+ 
+  }
+  button {
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+ 

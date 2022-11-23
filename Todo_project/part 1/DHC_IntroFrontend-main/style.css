@@ -1,0 +1,43 @@
+
+h1 {
+
+  text-align: center
+
+}
+h1{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+  h1{
+    color:cyan
+  }
+  h1{
+    font-family:sans-serif;
+   }
+   
+
+h2  {
+    color:#ffffff
+    }
+
+    h2  {
+      font-style:italic;
+      }
+ 
+ body 
+ {
+   background:linear-gradient(to right,#3b444b, #2C353C,#1d262d,  #4a535a);
+   }
+
+ li {
+       color:#6ee011
+ }
+ 
+ li {
+   font-style: italic;
+   color: rgb(130, 234, 65);
+   text-shadow: 4px 0 rgb(33, 0, 197), 4 1px rgb(103, 27, 54), 4px 0 rgb(82, 43, 43), 0 4px rgb(50, 46, 31);
+ }
+

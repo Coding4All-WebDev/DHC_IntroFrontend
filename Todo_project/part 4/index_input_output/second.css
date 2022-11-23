@@ -1,0 +1,23 @@
+
+   
+   body 
+   {
+     background:linear-gradient(to right,#3b444b, #2C353C,#1d262d,  #4a535a);
+     }
+  
+  
+  
+     table, tr, td {
+      border: 1px solid;
+      font-size: 20px;
+      
+      
+  }
+  h1 {
+
+    text-shadow: 3px 3px 3px violet;
+    font-size:50px;
+
+  }
+
+ 
